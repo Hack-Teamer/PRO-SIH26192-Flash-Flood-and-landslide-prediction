@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-command-bg text-command-text font-body;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display tracking-wide uppercase;
+  }
+}
+
+/* Custom scrollbars for technical instrumentation feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #12181B;
+}
+::-webkit-scrollbar-thumb {
+  background: #2A363D;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3FD0C9;
+}

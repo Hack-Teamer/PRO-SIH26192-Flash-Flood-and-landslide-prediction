@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "VIL-001",
+      "properties": {
+        "id": "VIL-001",
+        "name": "Bhatwari Village",
+        "district": "Uttarkashi",
+        "state": "Uttarakhand",
+        "population": 2840,
+        "slope_angle_deg": 38.5,
+        "soil_type": "Colluvial Silt Loam",
+        "cohesion_kpa": 12.5,
+        "friction_angle_deg": 28.0,
+        "soil_depth_m": 2.2,
+        "historical_landslides": 5,
+        "river_name": "Bhagirathi River",
+        "baseline_river_stage_m": 3.2,
+        "critical_river_stage_m": 7.5,
+        "relief_camp": {
+          "name": "Bhatwari Govt Higher Sec School Shelter",
+          "lat": 30.8220,
+          "lng": 78.6180,
+          "capacity": 500
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.605, 30.812],
+            [78.625, 30.814],
+            [78.630, 30.828],
+            [78.612, 30.832],
+            [78.600, 30.822],
+            [78.605, 30.812]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VIL-002",
+      "properties": {
+        "id": "VIL-002",
+        "name": "Maneri Ward 3",
+        "district": "Uttarkashi",
+        "state": "Uttarakhand",
+        "population": 1950,
+        "slope_angle_deg": 42.1,
+        "soil_type": "Weathered Schist/Gneiss",
+        "cohesion_kpa": 9.8,
+        "friction_angle_deg": 25.5,
+        "soil_depth_m": 1.8,
+        "historical_landslides": 8,
+        "river_name": "Bhagirathi River",
+        "baseline_river_stage_m": 3.0,
+        "critical_river_stage_m": 6.8,
+        "relief_camp": {
+          "name": "Maneri Dam Guest House High Ground",
+          "lat": 30.7610,
+          "lng": 78.5350,
+          "capacity": 350
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.520, 30.750],
+            [78.540, 30.752],
+            [78.545, 30.768],
+            [78.530, 30.772],
+            [78.515, 30.760],
+            [78.520, 30.750]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VIL-003",
+      "properties": {
+        "id": "VIL-003",
+        "name": "Gangori Settlement",
+        "district": "Uttarkashi",
+        "state": "Uttarakhand",
+        "population": 3410,
+        "slope_angle_deg": 34.0,
+        "soil_type": "Alluvial Gravel & Sand",
+        "cohesion_kpa": 14.0,
+        "friction_angle_deg": 31.0,
+        "soil_depth_m": 3.0,
+        "historical_landslides": 4,
+        "river_name": "Assi Ganga",
+        "baseline_river_stage_m": 2.1,
+        "critical_river_stage_m": 5.2,
+        "relief_camp": {
+          "name": "Gangori Stadium Grounds",
+          "lat": 30.7480,
+          "lng": 78.4480,
+          "capacity": 800
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.435, 30.738],
+            [78.455, 30.740],
+            [78.460, 30.754],
+            [78.442, 30.758],
+            [78.430, 30.748],
+            [78.435, 30.738]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VIL-004",
+      "properties": {
+        "id": "VIL-004",
+        "name": "Dharali Micro-watershed",
+        "district": "Uttarkashi",
+        "state": "Uttarakhand",
+        "population": 1220,
+        "slope_angle_deg": 46.8,
+        "soil_type": "Moraine Till",
+        "cohesion_kpa": 8.0,
+        "friction_angle_deg": 24.0,
+        "soil_depth_m": 2.5,
+        "historical_landslides": 11,
+        "river_name": "Kheer Ganga Stream",
+        "baseline_river_stage_m": 1.5,
+        "critical_river_stage_m": 4.0,
+        "relief_camp": {
+          "name": "Dharali Helipad Plateau",
+          "lat": 31.0350,
+          "lng": 78.7800,
+          "capacity": 300
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.765, 31.020],
+            [78.788, 31.022],
+            [78.795, 31.040],
+            [78.775, 31.045],
+            [78.760, 31.032],
+            [78.765, 31.020]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VIL-005",
+      "properties": {
+        "id": "VIL-005",
+        "name": "Harsil Valley Sector B",
+        "district": "Uttarkashi",
+        "state": "Uttarakhand",
+        "population": 2100,
+        "slope_angle_deg": 29.5,
+        "soil_type": "Glacio-fluvial Sand",
+        "cohesion_kpa": 16.5,
+        "friction_angle_deg": 33.0,
+        "soil_depth_m": 2.8,
+        "historical_landslides": 2,
+        "river_name": "Bhagirathi River",
+        "baseline_river_stage_m": 2.8,
+        "critical_river_stage_m": 6.5,
+        "relief_camp": {
+          "name": "Army Cantonment High Field",
+          "lat": 31.0400,
+          "lng": 78.7400,
+          "capacity": 600
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.725, 31.028],
+            [78.748, 31.030],
+            [78.752, 31.046],
+            [78.735, 31.050],
+            [78.720, 31.038],
+            [78.725, 31.028]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VIL-006",
+      "properties": {
+        "id": "VIL-006",
+        "name": "Uttarkashi Town Ward 7",
+        "district": "Uttarkashi",
+        "state": "Uttarakhand",
+        "population": 5800,
+        "slope_angle_deg": 36.2,
+        "soil_type": "Colluvium Over Slate",
+        "cohesion_kpa": 11.0,
+        "friction_angle_deg": 27.0,
+        "soil_depth_m": 2.0,
+        "historical_landslides": 6,
+        "river_name": "Bhagirathi River",
+        "baseline_river_stage_m": 3.5,
+        "critical_river_stage_m": 8.0,
+        "relief_camp": {
+          "name": "Ramlila Ground Shelter",
+          "lat": 30.7300,
+          "lng": 78.4400,
+          "capacity": 1200
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.420, 30.718],
+            [78.442, 30.720],
+            [78.448, 30.735],
+            [78.430, 30.738],
+            [78.415, 30.728],
+            [78.420, 30.718]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VIL-007",
+      "properties": {
+        "id": "VIL-007",
+        "name": "Mando Village Slope",
+        "district": "Uttarkashi",
+        "state": "Uttarakhand",
+        "population": 890,
+        "slope_angle_deg": 48.2,
+        "soil_type": "Unconsolidated Scree",
+        "cohesion_kpa": 6.5,
+        "friction_angle_deg": 22.0,
+        "soil_depth_m": 1.5,
+        "historical_landslides": 14,
+        "river_name": "Local Nullah",
+        "baseline_river_stage_m": 0.8,
+        "critical_river_stage_m": 3.0,
+        "relief_camp": {
+          "name": "Upper Ridge Temple Ground",
+          "lat": 30.7100,
+          "lng": 78.4600,
+          "capacity": 250
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.450, 30.700],
+            [78.468, 30.702],
+            [78.472, 30.715],
+            [78.458, 30.718],
+            [78.445, 30.708],
+            [78.450, 30.700]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VIL-008",
+      "properties": {
+        "id": "VIL-008",
+        "name": "Kankrari Village",
+        "district": "Uttarkashi",
+        "state": "Uttarakhand",
+        "population": 1150,
+        "slope_angle_deg": 41.0,
+        "soil_type": "Debris Flow Deposit",
+        "cohesion_kpa": 10.0,
+        "friction_angle_deg": 26.0,
+        "soil_depth_m": 2.1,
+        "historical_landslides": 7,
+        "river_name": "Kankrari Stream",
+        "baseline_river_stage_m": 1.1,
+        "critical_river_stage_m": 3.8,
+        "relief_camp": {
+          "name": "Kankrari Panchayat Bhawan",
+          "lat": 30.6900,
+          "lng": 78.4800,
+          "capacity": 300
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.470, 30.680],
+            [78.490, 30.682],
+            [78.495, 30.695],
+            [78.480, 30.698],
+            [78.465, 30.688],
+            [78.470, 30.680]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VIL-009",
+      "properties": {
+        "id": "VIL-009",
+        "name": "Barkot Ridge Ward 2",
+        "district": "Uttarkashi",
+        "state": "Uttarakhand",
+        "population": 3100,
+        "slope_angle_deg": 31.8,
+        "soil_type": "Sandy Clay Loam",
+        "cohesion_kpa": 15.0,
+        "friction_angle_deg": 30.0,
+        "soil_depth_m": 2.6,
+        "historical_landslides": 3,
+        "river_name": "Yamuna River",
+        "baseline_river_stage_m": 2.5,
+        "critical_river_stage_m": 6.2,
+        "relief_camp": {
+          "name": "Barkot Inter College",
+          "lat": 30.8100,
+          "lng": 78.2100,
+          "capacity": 750
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.195, 30.798],
+            [78.218, 30.800],
+            [78.222, 30.816],
+            [78.205, 30.820],
+            [78.190, 30.808],
+            [78.195, 30.798]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VIL-010",
+      "properties": {
+        "id": "VIL-010",
+        "name": "Purola Valley Micro-basin",
+        "district": "Uttarkashi",
+        "state": "Uttarakhand",
+        "population": 2650,
+        "slope_angle_deg": 26.0,
+        "soil_type": "Deep Silty Alluvium",
+        "cohesion_kpa": 18.0,
+        "friction_angle_deg": 34.0,
+        "soil_depth_m": 3.5,
+        "historical_landslides": 1,
+        "river_name": "Kamola Stream",
+        "baseline_river_stage_m": 1.8,
+        "critical_river_stage_m": 5.0,
+        "relief_camp": {
+          "name": "Purola Stadium Complex",
+          "lat": 30.8800,
+          "lng": 78.0800,
+          "capacity": 900
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [78.065, 30.868],
+            [78.088, 30.870],
+            [78.092, 30.886],
+            [78.075, 30.890],
+            [78.060, 30.878],
+            [78.065, 30.868]
+          ]
+        ]
+      }
+    }
+  ]
+}
